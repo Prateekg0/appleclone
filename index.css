@@ -1,0 +1,142 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar{
+    height: 44px;
+    background-color: rgb(238,238,238);
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight:100;
+    font-size: small;
+}
+.navbar_store{
+    display: flex;
+    
+    justify-content:  space-evenly;
+    
+    list-style: none;
+    
+    
+}
+.global{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+a{
+    text-decoration: none;
+  
+}
+.home{
+    margin-top: 10px;
+}
+.bank{
+    height: 72px;
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+#bank_line{
+    text-align: center;
+    line-height: 50px;
+}
+.main_body{
+    background-color: rgb(238,238,238);
+    height: 100vh; 
+}
+.bot{
+    height: 350px;
+    margin-left:100px ;
+    margin-right: 50px;
+    display: flex;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: small;
+    font: lighter;
+}
+.love_text{
+    height: 350px;
+    width: 650px;
+    font-size: 48px;
+    color: rgb(102,102,102);
+    font-family:'Inter', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.ai{
+    height: 350px;
+    width: 480px;
+    /* background-color: aqua; */
+}
+.ai_center{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 50px;
+    /* background-color: brown; */
+    text-align: center;
+    
+
+}
+#bot{
+    border-radius: 50%;
+}
+.products{
+    height: 198px;
+    /* background-color: aqua; */
+    display: flex;
+    /* margin-left: 100px; */
+}
+.pro_li{
+    width: 125px;
+    height: 126px;
+    /* background-color: antiquewhite; */
+    text-align: center;
+    margin: 30px;
+
+}
+h3{
+    text-align: center;
+    line-height: 200px;
+}
+.scrol{
+    height: 600px;
+    background-color: rgb(238,238,238);
+    display: flex;
+    }
+#text{
+    color: rgb(102,102,102);
+    font-size: 30px;
+    font-family:'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    height: 200px;
+    background-color: rgb(238,238,238);
+    
+}
+.scrol_product{
+    height: 550px;
+    width: 400px;
+    /* */
+    display: flex;
+    margin-left: 35px;
+    position: relative;
+    }
+.image{
+    border-radius: 15px;
+}
+.top-centered{
+    position: absolute;
+    left: 10%;
+    top: 10%;
+    color: white;
+    font-family:'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* #prateek{
+    grid-column: 1/ span 4;
+    grid-row: 1/span 3;
+    color: rgb(102,102,102);
+    /
+    font-family:'Inter', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: bolder; */
+
+
